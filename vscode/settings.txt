@@ -1,0 +1,23 @@
+
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "typescript.tsdk": "/usr/local/lib/node_modules/typescript/lib/",
+    "editor.formatOnSave": true,
+    "eslint.enable": true,
+    "eslint.run": "onSave",
+    "eslint.autoFixOnSave": true,
+    "workbench.iconTheme": null,
+    "workbench.colorTheme": "Material Theme",
+    "files.insertFinalNewline": true,
+    "editor.minimap.enabled": false,
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Default"
+    },
+    "javascript.implicitProjectConfig.checkJs": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}

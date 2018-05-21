@@ -1,0 +1,12 @@
+Beautify
+Code Spell Checker
+ElixirLS
+elm
+elmx
+ESLint
+Git History
+Material Theme
+npm
+vscode-elixir
+WakaTime
+
